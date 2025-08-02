@@ -5,7 +5,7 @@
   - System Maintenance – Installing updates, hardening security, and managing IT assets.
 
 ## after-hours
-- hands-on with Linux—practicing Bash scripting, exploring system administration, and learning the fundamentals of [cloud computing](https://www.freecodecamp.org/news/tag/cloud-computing/)
+- hands-on with [Linux](https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/)—practicing Bash scripting, exploring system administration, and learning the fundamentals of [cloud computing](https://www.freecodecamp.org/news/tag/cloud-computing/)
 - family, fishing, guitars, [reading](https://kwikbrain.medium.com/10-brain-reasons-to-make-reading-a-habit-aa628d4b498c)
 - [inner-engineering](https://isha.sadhguru.org/sg/en/inner-engineering)
 
