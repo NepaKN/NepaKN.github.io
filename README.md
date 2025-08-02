@@ -7,10 +7,11 @@
 ## after-hours
 - hands-on with Linux—practicing Bash scripting, exploring system administration, and learning the fundamentals of cloud computing
 - family, fishing, guitars, reading
+- inner-engineering
 
 ## goals 
-- consume less content
-- angamardana
+- [choosing consciously what you consume online]()
+- [angamardana](https://www.youtube.com/watch?v=zkYm04SB4Ew)
 
 ## connect
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/cloudgig/)
