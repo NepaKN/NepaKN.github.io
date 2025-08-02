@@ -1,4 +1,4 @@
-# Neupane Kshitiz
+
 ## work
 - Helpdesk Support @Xirni
   - End-User Support – Fixing hardware/software issues, reducing downtime, and guiding users.
