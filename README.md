@@ -2,7 +2,7 @@
 ##### Hong Kong | nepakshitiz@gmail.com | [LinkedIn](https://www.linkedin.com/in/cloudgig/)
 
 ### Personal Statement
-- [ ] an IT professional with experience in providing Level 1 help desk support. 
+   an IT professional with experience in providing Level 1 help desk support. 
 - [ ] Proven ability in troubleshooting hardware and software issues, managing users, and delivering customer service to ensure minimal user downtime.
 - [ ] Seeking to leverage technical skills and a strong service-oriented mindset in an IT Help Desk role.
 
