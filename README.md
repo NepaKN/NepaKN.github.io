@@ -9,7 +9,6 @@
 Technical Skills
 - [ ] IT Management: Action1- User & Group Management, GPO, Software Deployment, Patch Management
 - [ ] Networking: Basic TCP/IP Troubleshooting, Network Diagnostics, Printer Configuration
-- [ ] Certifications: Microsoft Certified: Azure Fundamentals [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/KNKshitizNeupane-4813/1545B684262E60D8?sharingId=72DFC22F8D9DA5BD)
 - [ ] _In Progress: Hands on with Linux; Kali & Ubuntu Server, Version Control (Communicating with Markdown), Cloud CLI Setup, Secure Shell Protocol (SSH)_
 
 ### Professional Experience
@@ -35,5 +34,5 @@ Microsoft Azure Home Lab
 - [ ] Installed and configured Active Directory Domain Services on a cloud-based server to simulate a hybrid environment.
 
 Education & Credentials
-- [ ] Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft
+- [ ] Microsoft Certified: Azure Fundamentals [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/KNKshitizNeupane-4813/1545B684262E60D8?sharingId=72DFC22F8D9DA5BD) | Microsoft
 - [ ] IT Help Desk for Beginners | LinkedIn Learning  
