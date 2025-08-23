@@ -33,6 +33,6 @@ Microsoft Azure Home Lab
 ##### - Provisioned virtual machines (Windows Server 2019, Windows 10) within Azure Resource Groups.
 ##### - Installed and configured Active Directory Domain Services on a cloud-based server to simulate a hybrid environment.
 
-******Credentials******
+#### Credentials
 -  Microsoft Certified: Azure Fundamentals [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/KNKshitizNeupane-4813/1545B684262E60D8?sharingId=72DFC22F8D9DA5BD) | Microsoft
 -  IT Help Desk for Beginners | LinkedIn Learning  
