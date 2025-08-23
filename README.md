@@ -1,4 +1,4 @@
-# Kshitiz Neupane
+
 ###### Hong Kong | nepakshitiz@gmail.com | [LinkedIn](https://www.linkedin.com/in/cloudgig/)
 
 #### Personal Statement
