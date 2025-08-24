@@ -20,6 +20,7 @@
 -  Guide users through solutions and promote self-service resources like knowledge bases for common problems.
 -  Prepare and configure PCs for new users, including software installation and basic security hardening.
 -  Utilize remote monitoring and management (RMM) tools for efficient endpoint support.
+-  Troubleshooting Microsoft 365 Outlook issues
 
 ### Hands-On Project Experience
 Active Directory Home Lab
