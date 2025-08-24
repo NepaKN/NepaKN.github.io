@@ -21,7 +21,7 @@
 -  Prepare and configure PCs for new users, including software installation and basic security hardening.
 -  Utilize remote monitoring and management (RMM) tools for efficient endpoint support.
 -  Troubleshooting Microsoft 365 Outlook issues
--   Maintaining a centralized, detailed, and updated inventory of all IT assets. 
+-  Maintaining a centralized, detailed, and updated inventory of all IT assets. 
 
 ### Hands-On Project Experience
 Active Directory Home Lab
