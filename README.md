@@ -37,6 +37,7 @@ Microsoft Azure Home Lab
 ##### - Provisioned virtual machines (Windows Server 2019, Windows 10) within Azure Resource Groups.
 ##### - Installed and configured Active Directory Domain Services on a cloud-based server to simulate a hybrid environment.
 
+
 Linux (in progress)
 ##### - Text Manipulation, Analyzing and Managing Networks
 ##### - Adding and Removing Software
