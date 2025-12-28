@@ -42,4 +42,4 @@ Linux (in progress . . .)
 
 #### Credentials
 -  Microsoft Certified: Azure Fundamentals [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/KNKshitizNeupane-4813/1545B684262E60D8?sharingId=72DFC22F8D9DA5BD) | Microsoft
--  IT Help Desk for Beginners | [LinkedIn Learning] (https://www.linkedin.com/learning/certificates/33ab83705beb38885a1f0b2b638765b48c2fa541b11aa2f0aa747fc6a709b7b4)
+-  IT Help Desk for Beginners | [LinkedIn Learning](https://www.linkedin.com/learning/certificates/33ab83705beb38885a1f0b2b638765b48c2fa541b11aa2f0aa747fc6a709b7b4)
