@@ -29,7 +29,7 @@ IT Operations & Documentation:
 - Documented, tracked, and resolved support requests via a ticketing system, ensuring adherence to Service Level Agreements (SLAs).
 - Escalated complex issues to Level 2/3 support with detailed documentation for efficient handover.
 - Maintained a centralized IT asset inventory, performing regular audits and coordinating the disposal of damaged equipment.
-- Executed weekly manual backups for SQL and Mionio databases.
+- Executed weekly manual backups for SQL and MinIO databases.
   
 ### Hands-On Project Experience
 
