@@ -1,49 +1,45 @@
 
-###### Hong Kong | nepakshitiz@gmail.com | [LinkedIn](https://www.linkedin.com/in/cloudgig/)
+###### Hong Kong | nepakshitiz@gmail.com | [LinkedIn](https://www.linkedin.com/in/cloudgig/) | [Github.io](https://nepakn.github.io/)
 
 #### Personal Statement
-- an IT professional with experience in providing Level 1 help desk support. 
-- Proven ability in troubleshooting hardware and software issues, managing users, and delivering customer service to ensure minimal user downtime.
-- Seeking to leverage technical skills and a strong service-oriented mindset in an IT Help Desk role.
+- IT Support professional experienced in providing comprehensive Level 1 help desk support.
+- Proficient in end-user troubleshooting, Active Directory management, and Microsoft 365 administration.
+- Aims to leverage a strong technical aptitude and service-oriented approach to deliver effective IT solutions and support.
 
 #### Technical Skills
-- IT Management: Action1- Software Deployment, Patch Management, Remote Monitoring
-- Networking: Basic TCP/IP Troubleshooting, Network Diagnostics, Printer Configuration
+- IT Management & Tools: Action1 RMM (Software Deployment, Patch Management, Remote Monitoring), Ticketing Systems, Remote Support
+- Networking: TCP/IP Troubleshooting, Network Diagnostics, Printer Troubleshooting, VPN Setup (device) & Support
+- Systems & Software: Microsoft 365 Administration, Active Directory (User Account Management), Google Workspace, macOS, Windows OS
+- IT Support: Hardware/Software Troubleshooting, PC & Mac Provisioning, IT Asset Inventory Management, Biometric System Management
 
 ### Professional Experience
-##### __Help Desk Support  | Xirni Limited | Hong Kong | Jan 2025 – Present__
--  Provide first-line technical (level 1) support to end-users, resolving issues related to hardware, software, and network connectivity to reduce downtime.
--  Active Directory, user account management, including password resets, account unlocks, and permissions.
--  Document, track, and manage support requests through the ticketing system, ensuring adherence to SLAs.
--  Escalate complex technical issues to Level 2 support teams with comprehensive documentation.
--  Guide users through solutions and promote self-service resources like knowledge bases for common problems.
--  Prepare and configure PCs for new users, including software installation and basic security hardening.
--  Utilize remote monitoring and management (RMM) tools for efficient endpoint support.
--  Troubleshooting Office 365, issuing licenses to new users
--  Troubleshoot  Outlook issues, Airmail issues
--  Issuing Office 365 licenses to new users
--  Maintaining a centralized, detailed, and updated inventory of all IT assets.
--  Manual  database backups for SQL, Mionio (Weekly)
--  Basic support for Google Workspace, email account creation, password resets.
--  Manage Biometric Access for new users
--  Basic User support for Line of Business Applications for in-house users as well as clients
--  Provide VPN connection (incl. after office hrs), configuring VPN for user devices
--  Maintain accurate IT asset/resource inventory, conduct physical examinations of hardwares
--  Coordinate disposal of damaged IT equipment.
+#### __IT Help Desk Support  | Xirni Limited | Hong Kong | Jan 2025 – Present__
+Technical Support & User Administration:
+- Provided first-line technical support, diagnosing and resolving hardware, software, and network connectivity issues to reduce user downtime.
+- Managed Active Directory user accounts, performing password resets, account unlocks, and permission modifications.
+- Onboarded new users by preparing, configuring, and securing PCs and Macs with necessary software and policies.
+- Provided basic support for in-house and client-facing Line of Business (LOB) Applications.
+- Performed basic troubleshooting and setup for macOS.
+
+Systems & Application Administration:
+- Administered Microsoft 365 & Google Workspace, including license allocation, email account creation, and troubleshooting client applications (Outlook, AirMail).
+- Managed VPN connections for remote access, including after-hours configuration and support.
+
+IT Operations & Documentation:
+- Documented, tracked, and resolved support requests via a ticketing system, ensuring adherence to Service Level Agreements (SLAs).
+- Escalated complex issues to Level 2/3 support with detailed documentation for efficient handover.
+- Maintained a centralized IT asset inventory, performing regular audits and coordinating the disposal of damaged equipment.
+- Executed weekly manual backups for SQL and Mionio databases.
   
 ### Hands-On Project Experience
 
 Microsoft Azure Home Lab
-##### - Provisioned virtual machines (Windows Server 2019, Windows 10) within Azure Resource Groups.
-##### - Installed and configured Active Directory Domain Services on a cloud-based server to simulate a hybrid environment.
+- Provisioned virtual machines (Windows Server 2019, Windows 10) within Azure Resource Groups.
+- Installed and configured Active Directory Domain Services on a cloud-based server to simulate a hybrid environment.
 
-
-Linux (in progress)
-##### - Text Manipulation, Analyzing and Managing Networks
-##### - Adding and Removing Software
-##### - Controlling File and Directory Permissions
-##### - Process Management
+Linux (in progress . . .)
+- Gaining practical experience in text manipulation, network analysis, software management, file permissions, and process management.
 
 #### Credentials
 -  Microsoft Certified: Azure Fundamentals [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/KNKshitizNeupane-4813/1545B684262E60D8?sharingId=72DFC22F8D9DA5BD) | Microsoft
--  IT Help Desk for Beginners | LinkedIn Learning  
+-  IT Help Desk for Beginners | [LinkedIn Learning] (https://www.linkedin.com/learning/certificates/33ab83705beb38885a1f0b2b638765b48c2fa541b11aa2f0aa747fc6a709b7b4)
